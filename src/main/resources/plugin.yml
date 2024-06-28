@@ -1,0 +1,4 @@
+name: craft-core
+version: '${version}'
+main: dev.thebjoredcraft.craftcore.CraftCore
+api-version: '1.20'
